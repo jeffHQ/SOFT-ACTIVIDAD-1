@@ -1,4 +1,22 @@
 from flask import Flask
+
+
+from flask import request
+
+ 
+
+app = Flask(__name__)
+
+ 
+
+@app.route('/')
+
+def hello():
+
+ 
+
+    return '<h1>2, World!</h1>'
+
 from flask import request
 app = Flask(__name__)
 
@@ -6,3 +24,4 @@ app = Flask(__name__)
 def hello():
 
     return '<h1>Los quiero, World!</h1>'
+
