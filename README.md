@@ -10,3 +10,9 @@
 ![image](https://github.com/jeffHQ/SOFT-ACTIVIDAD-1/assets/103541640/7b9641e8-4edf-49da-b5f0-7c440fb2b3d0)
 
 ![image](https://github.com/jeffHQ/SOFT-ACTIVIDAD-1/assets/103541640/bece26a9-ea2a-4c87-8ca9-dcbba12828b1)
+
+![image](https://github.com/jeffHQ/SOFT-ACTIVIDAD-1/assets/103541640/27a76815-f3c7-4c64-b2f0-5c88bff3f833)
+
+![image](https://github.com/jeffHQ/SOFT-ACTIVIDAD-1/assets/103541640/d6d522db-8cf2-4aed-aea0-63e3434f6807)
+
+![image](https://github.com/jeffHQ/SOFT-ACTIVIDAD-1/assets/103541640/f78493ae-39a7-4cab-9641-9edb28b4c395)
